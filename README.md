@@ -2,7 +2,7 @@
 
 This repository contains the code to replicate the analyses presented in the paper *"The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys"*, by Doyle, Kuchukhidze, Stannah et al.
 
-The 124 population-based surveys included in these anlyses can be obtained by contacting the following organizations.
+The 124 population-based surveys included in these anlyses can be obtained by contacting the following custodians:
 - Botswana AIDS Indicator Surveys (https://microdata.statsbots.org.bw).
 - Demographic and Health Surveys (https://dhsprogram.com/Data/).
 - Population-based HIV Impact Assessment (https://phia-data.icap.columbia.edu/datasets).
