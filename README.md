@@ -1,6 +1,6 @@
 # stigma-hiv-outcomes
 
-This repository contains the code to replicate the analyses presented in the paper *"The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys"*, by Doyle, Kuchukhidze, Stannah et al.
+This repository contains the code to replicate the analyses presented in the paper *"The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys"*, by Doyle, Kuchukhidze, Stannah et al. (available [here](https://dx.doi.org/10.2139/ssrn.5225713)).
 
 The 124 population-based surveys included in these anlyses can be obtained by contacting the following custodians:
 - Botswana AIDS Indicator Surveys (https://microdata.statsbots.org.bw).
